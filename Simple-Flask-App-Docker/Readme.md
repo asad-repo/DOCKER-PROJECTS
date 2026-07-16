@@ -1,3 +1,4 @@
+NOTE:THIS PROJECT HAS BEEN FORKED BUT ONLY THE DOCKER PART HAS BEEN MADE BY MYSELF WHICH INCLUDES DOCKER FILE AND ITS CONTAINER.
 # Simple Flask App with Docker
 
 A step-by-step guide to creating a Flask web application and containerizing it with Docker.
